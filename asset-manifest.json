@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-learning-Platform/static/css/main.5e64a436.css",
+    "main.js": "/E-learning-Platform/static/js/main.39915d4a.js",
+    "static/js/453.921fcf3b.chunk.js": "/E-learning-Platform/static/js/453.921fcf3b.chunk.js",
+    "index.html": "/E-learning-Platform/index.html",
+    "main.5e64a436.css.map": "/E-learning-Platform/static/css/main.5e64a436.css.map",
+    "main.39915d4a.js.map": "/E-learning-Platform/static/js/main.39915d4a.js.map",
+    "453.921fcf3b.chunk.js.map": "/E-learning-Platform/static/js/453.921fcf3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e64a436.css",
+    "static/js/main.39915d4a.js"
+  ]
+}
